@@ -15,7 +15,4 @@ __Was *very usure* of how to make a webpage but it is easier than I thought__ :i
 :goat: :goat: :goat: 
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 
