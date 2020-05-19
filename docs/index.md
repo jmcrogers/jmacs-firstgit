@@ -5,6 +5,11 @@
 **This is working**
 
 Things to do today!
-1. Make Dinner
-2. Clean Kitchen
-3. Call Mom
+1. ~~Create a webpage~~
+2. Make Dinner
+3. Clean Kitchen
+4. Call Mom
+
+__Was *very usure* of how to make a webpage but it is easier than I thought__ :innocent:
+
+:goat: :goat: :goat:
