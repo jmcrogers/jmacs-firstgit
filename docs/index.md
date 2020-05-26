@@ -10,9 +10,10 @@ Things to do today!
 3. Clean Kitchen
 4. Call Mom
 
-__Was *very usure* of how to make a webpage but it is easier than I thought__ :innocent:
+__Was *very usure* of how to make a webpage but it is **easier** than I thought__ :innocent:
 
 :goat: :goat: :goat: 
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
